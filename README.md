@@ -8,14 +8,13 @@
 * Property register
 * Registers in general
 
-## Ideas
-* security & integrity
-  * [Merkle tree](http://en.wikipedia.org/wiki/Merkle_tree) in [Bitcoin blockchain](http://en.wikipedia.org/wiki/Bitcoin#Block_chain)
-* decentralization
-  * Internal distributing via [git](http://en.wikipedia.org/wiki/Git_%28software%29)
+## Some ideas
 
-## Contributing
-Feel free to edit & send Pull Requests!
+* security & integrity
+  * Sign every transaction with [PGP](http://en.wikipedia.org/wiki/Pretty_Good_Privacy) (GPG).
+  * Store signature about every transaction in [Bitcoin Blockchain](http://en.wikipedia.org/wiki/Bitcoin#Block_chain) with use of [Merkle tree](http://en.wikipedia.org/wiki/Merkle_tree).
+* decentralization
+  * Use powers of [git](http://en.wikipedia.org/wiki/Git_%28software%29) to distribute & organize government documents and less frequently modified data.
 
 ## License
 
