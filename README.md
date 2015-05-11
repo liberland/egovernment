@@ -9,12 +9,14 @@
 * Registers in general
 
 ## Some ideas
-
-* security & integrity
+* **security & integrity**
   * Sign every transaction with [PGP](http://en.wikipedia.org/wiki/Pretty_Good_Privacy) (GPG).
   * Store signature about every transaction in [Bitcoin Blockchain](http://en.wikipedia.org/wiki/Bitcoin#Block_chain) with use of [Merkle tree](http://en.wikipedia.org/wiki/Merkle_tree).
-* decentralization
+* **decentralization**
   * Use powers of [git](http://en.wikipedia.org/wiki/Git_%28software%29) to distribute & organize government documents and less frequently modified data.
+
+## Contributing
+Everyone is welcome to contribute, file issues and submit pull requests!
 
 ## License
 
